@@ -27,7 +27,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.12.0",
     "@fortawesome/vue-fontawesome": "^0.1.9",
     "@kazupon/vue-i18n-loader": "^0.4.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.6",
     "buefy": "^0.8.8",
     "date-fns": "^2.8.1",
